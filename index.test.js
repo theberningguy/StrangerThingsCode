@@ -1,5 +1,5 @@
 const index = require('./index');
-const data = require('./stranger-things/testData');
+const data = require('./testData/testData');
 
 const parsedData = data.data
 const episodes = data.data._embedded.episodes
